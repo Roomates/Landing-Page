@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/landing-page/static/media/reminders.4fde6142.png"
   },
   {
-    "revision": "8a9ed2d5df9704b90777be922791a5c7",
+    "revision": "d302b1d454d4e83f15b565b84fddbef2",
     "url": "/landing-page/index.html"
   }
 ];
