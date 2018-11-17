@@ -2,7 +2,7 @@
   "name": "roomate_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://roomates.github.io./Landing-Page",
+  "homepage": "http://roomates.github.io./landing-Page",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "grep": "^0.1.0",
